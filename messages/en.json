@@ -1,0 +1,82 @@
+{
+  "HomePage": {
+    "title":"Each card has a message for you.",
+    "titleSpan":" Are you ready to discover it?",
+    "guide":"Here is a brief guide on how to request your tarot reading.",
+    "information":"All readings have detailed information.",
+    "chooseReading":"Choose the reading that interests you most.",
+    "includeData":"Each reading includes the necessary information to correctly schedule your session.",
+    "completeForm":"Complete all fields of the form with your full name, date of birth and your specific question.",
+    "reviewData":"Review your details and click on the 'Schedule Reading' button.",
+    "personalized":"Looking for a personalized reading?",
+    "email":"I invite you to experience my tarot readings via email. Not only does this method offer you anonymity, but it also provides you with a written record of the reading, which you can refer to at any time. Plus, I guarantee complete sincerity in my interpretations, whether positive or negative."
+  },
+  "Navigation": {
+    "guide":"Guide",
+    "readings":"Readings",
+    "end":"Personal",
+    "contact":"Contact",
+    "catalogue":"Catalogue",
+    "prices":"Prices"
+  },  
+  "List": {
+    "readings":"Our Readings",
+    "description":"During the reading, we will explore your personal energies and their influence on key areas of your life, such as love, work, health, and relationships. I will guide you to identify emotional blocks, limiting patterns, and beliefs that may be impeding your growth and success. By gaining this understanding, you will be able to make more conscious decisions aligned with your desires and goals."
+  },
+  "Readings": {
+    "info":"More information"
+  },
+  "Contact": {
+    "title":"Contact",
+    "description":"I invite you to embark on this experience and discover the transformative power that resides within you. Together, we will unravel the secrets of your energy and I will guide you through the steps necessary to manifest a full, abundant life full of possibilities.",
+    "descriptionSpan":"The magic of tarot awaits you to reveal your true potential!"
+  },
+  "Footer": {
+    "text":"All rights reserved"
+  },
+  "Url": {
+    "button":"Go Back",
+    "invitation":"Embark on a journey of self-discovery with our online tarot reading sessions. Get answers to your deepest questions, guidance for important decisions, and a clear vision of your future, all from the comfort of your home.",
+    "help":"Our tarot readings help you understand challenges, strengths, and growth opportunities. Don’t wait any longer, book your session and start your inner transformation today.",
+    "ws":"Readings are conducted via WhatsApp, providing you with convenience and flexibility.",
+    "click":"You are just one click away.",
+    "national":"National",
+    "value":"Value",
+    "international":"International",
+    "services":"Reading fee to be coordinated with the client.",
+    "steps":"Steps to Schedule Your Reading Review:",
+    "select":"Select Your Reading:",
+    "selectSpan":"Browse the catalog and make sure you are on the reading that interests you.",
+    "payment":"Make the Payment:",
+    "paymentSpan":"Use 'Pago Móvil' or PayPal to pay the exact amount for your reading",
+    "paypal":"PayPal Payment",
+    "confirmation":"Send Payment Confirmation",
+    "confirmationSpan":"Send a screenshot of the completed payment. Provide Your Details: Indicate your full name, date of birth, and your specific question.",
+    "ready":"And that’s it! You will be attended to shortly.",
+    "cancellation":"Cancellation Policy",
+    "cancellationText":"In case of any changes on my part, you will be informed. If you cannot attend the appointment, you must notify at least 4 hours in advance, and there will be the possibility to reschedule. The maximum waiting time for a session is 15 minutes; if you do not notify of the delay, the session will be closed, and no refund will be given under any circumstances or exceptions.",
+    "hours":"Service Hours:",
+    "hoursText":"Let’s start reading your destiny, answering questions, and establishing well-being in your life. I am available to assist you:",
+    "time":"Monday to Friday 9:00 AM - 5:00 PM (Venezuela Time)",
+    "details":"Contact Details",
+    "detailsText":"I remind you of all my social networks so you can contact me through the method you prefer."
+  },
+  "Form": {
+    "information":"Booking Information",
+    "name":"First Name",
+    "namePlaceholder":"Your Full Name",
+    "lastname":"Last Name",
+    "lastnamePlaceholder":"Your Last Name",
+    "birth":"Date of Birth",
+    "question":"Your Specific Question",
+    "questionPlaceholder":"Your question regarding the",
+    "schedule":"Schedule Reading",
+    "warn":"All fields are mandatory!",
+    "success":"Reading successfully scheduled!"
+  },
+  "NotFound": {
+    "title":"Page Not Found",
+    "text":"The page you are trying to access does not exist, please return to the main page.",
+    "button":"Go Back"
+  }
+}

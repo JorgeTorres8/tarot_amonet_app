@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Merienda:wght@300..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+  --color-text: #000;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+.dark {
+  --foreground-rgb: 255, 255, 255!important;
+  --background-start-rgb: 0, 0, 0!important;
+  --background-end-rgb: 0, 0, 0!important;
+  --color-text: #fff!important;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-image: linear-gradient(to right, rgb(0 0 0 /.7), rgb(0 0 0 /0.84)), url(/img/header.png);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  padding: 5rem 3rem 2rem 3rem;
+}
+@media(min-width: 1024px){
+  .header {
+    /*flex-direction: row;*/
+    background-image: linear-gradient(to right, rgb(0 0 0 /.68), rgb(0 0 0 /.77)), url(/img/header.png);
+  }
+}
+
+.schedule {
+  background-image: linear-gradient(to right, rgb(0 0 0 /.3), rgb(0 0 0 /.4)), url(/img/schedule.png);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  border-radius: 1rem;
+}
+
+@layer components {
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-merienda;
+    font-size: 2rem;
+    font-weight: 600;
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+    color: var(--color-text);
+    text-align: center;
+  }
+}
+
+@layer base {
+  p {
+    @apply font-josefin;
+    text-align: center;
+    white-space: pre-wrap;
+    margin: 0;
+    font-size: 1.5rem;
+    color: var(--color-text);
+  }
+}
+ 
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

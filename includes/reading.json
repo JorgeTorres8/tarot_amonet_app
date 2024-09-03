@@ -1,0 +1,207 @@
+[    
+    {
+        "id": 1,
+        "name": "Lectura del Pasado, Presente y Futuro",
+        "description": "Esta lectura ofrece una visión completa de tu vida. Tres cartas exploran tu pasado, otras tres iluminan tu presente, y las últimas tres revelan el futuro a corto plazo. Está diseñada para ayudarte a comprender y evaluar situaciones en el amor, el dinero, el trabajo o cualquier otro aspecto general de tu vida.",
+        "url": "lectura-tiempo",
+        "price": "$ 13",
+        "priceI": "$ 23",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_2.png"
+    },
+    {
+        "id": 2,
+        "name": "Lectura del Si y No",
+        "description": "Esta es una lectura donde contaremos las positivas y las negativas, teniendo en cuenta que la carta central vale el doble. Si hay más cartas positivas, la respuesta es \"sí\"; si hay más negativas, es \"no\". A veces puede suceder que salga el mismo número de cartas afirmativas y negativas, la respuesta es dudosa y deberemos reformular la pregunta y volver a realizar la tirada desde el principio.",
+        "url": "lectura-si-no",
+        "price": "$ 7",
+        "priceI": "$ 17",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_3.png"
+    },
+    {
+        "id": 3,
+        "name": "Lectura ¿Por qué se rompió esta Relación?",
+        "description": "Esta es una lectura diseñada para descubrir la verdadera razón de la separación. A veces creemos que conocemos la causa, pero puede ser algo completamente distinto. Si la causa está relacionada contigo o tu pasado, es crucial conocerla para poder hacer los cambios necesarios antes de iniciar una nueva relación o intentar revivir la anterior.",
+        "url": "lectura-relacion",
+        "price": "$ 8",
+        "priceI": "$ 18",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_4.png"
+    },
+    {
+        "id": 4,
+        "name": "Lectura Recuperarse de una Ruptura",
+        "description": "Esta es una lectura que nos permite ayudar al consultante a lidiar con una ruptura, ya que debemos tener cuidado de que el dolor no nos consuma. Necesitamos pensar en lo que podemos aprender y cómo avanzamos. Con esta tirada, podremos obtener la mayor información posible y nos ayudará a identificar como podemos usar esta experiencia como una oportunidad para crecer.",
+        "url": "lectura-ruptura",
+        "price": "$ 15",
+        "priceI": "$ 25",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_5.png"
+    },
+    {
+        "id": 5,
+        "name": "Lectura del Ausente",
+        "description": "Esta lectura te ayuda a comprender y aclarar tus dudas sobre una posible relación con una persona. A través de esta tirada, descubrirás cómo te ve, lo que siente, lo que piensa, sus acciones hacia ti, lo que desea y el futuro de sus decisiones en relación contigo.",
+        "url": "lectura-ausente",
+        "price": "$ 15",
+        "priceI": "$ 25",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253307/TarotAmonet/lista_6.png"
+    },
+    {
+        "id": 6,
+        "name": "Lectura del Embarazo",
+        "description": "Esta lectura te ofrece una visión completa sobre tu posibilidad de quedar embarazada o, si ya lo estás, entender el desarrollo del embarazo. Esta tirada revela posibles problemas o debilidades a atender, el curso del embarazo, tu disposición para dar nueva vida y la salud del bebé.",
+        "url": "lectura-embarazo",
+        "price": "$ 10",
+        "priceI": "$ 20",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253307/TarotAmonet/lista_7.png"
+    },
+    {
+        "id": 7,
+        "name": "Lectura para saber si la Persona es para Mí",
+        "description": "Esta lectura te revela la situación actual entre tú y esa persona especial. Descubrirás cómo se siente esa persona cuando está a tu lado, cómo te sientes tú respecto a ella, los obstáculos presentes entre ustedes, y recibirás una respuesta y consejo para mejorar la relación.",
+        "url": "lectura-persona",
+        "price": "$ 10",
+        "priceI": "$ 20",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253307/TarotAmonet/lista_8.png"
+    },
+    {
+        "id": 8,
+        "name": "Lectura para Saber si Me Hicieron Hechicería",
+        "description": "Esta lectura te ayuda a comprender si las energías que sientes son normales o están siendo afectadas por influencias externas. Te permitirá evaluar tu estado mental actual, descubrir si estás bajo algún tipo de influencia mágica y quién podría estar interesado en dañarte.",
+        "url": "lectura-hechiceria",
+        "price": "$ 10",
+        "priceI": "$ 20",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_9.png"
+    },
+    {
+        "id": 9,
+        "name": "Lectura del Dinero",
+        "description": "Esta lectura es una excelente oportunidad para comprender tu relación con el dinero y la abundancia. Esta lectura te ayuda a identificar áreas donde mejorar tu percepción y señalar cambios necesarios para atraer abundancia a tu vida diaria.",
+        "url": "lectura-dinero",
+        "price": "$ 15",
+        "priceI": "$ 25",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_10.png"
+    },
+    {
+        "id": 10,
+        "name": "Lectura de las Decisiones",
+        "description": "Esta lectura es ideal cuando te encuentras entre dos caminos y no sabes cuál elegir. El tarot revela el panorama general de ambas opciones, guiándote para tomar la mejor decisión, que, por supuesto, siempre será tuya.",
+        "url": "lectura-decisiones",
+        "price": "$ 15",
+        "priceI": "$ 25",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253508/TarotAmonet/lista_11.png"
+    },
+    {
+        "id": 11,
+        "name": "Lectura del Sexo en Pareja",
+        "description": "Esta lectura revela aspectos clave sobre el consultante, mostrando su estado actual y su comportamiento tanto consciente como inconsciente en el ámbito sexual. Además, explora sus deseos más profundos y ofrece un consejo personalizado del tarot para guiarlo en su camino.",
+        "url": "lectura-sexo",
+        "price": "$ 10",
+        "priceI": "$ 20",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253508/TarotAmonet/lista_12.png"
+    },
+    {
+        "id": 12,
+        "name": "Lectura del Chequeo Espiritual",
+        "description": "Esta lectura te brinda una visión profunda de tu salud espiritual, revelando las fuerzas que debilitan tu espíritu, cómo puedes mejorar tu conexión espiritual, y qué elementos fortalecen tu esencia interior.",
+        "url": "lectura-espiritual",
+        "price": "$ 10",
+        "priceI": "$ 20",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_13.png"
+    },
+    {
+        "id": 13,
+        "name": "Lectura General de las 12 Casas con los 22 Arcanos Mayores",
+        "description": "Cada casa te indica diferentes aspectos de tu vida.\n\nCasa I: Personalidad y la forma en que te presentas al mundo.\n\nCasa II: Finanzas y recursos materiales que obtienes por ti mismo.\n\nCasa III: Mente práctica, estudios básicos, relación con hermanos y viajes cortos.\n\nCasa IV: Influencia paterna y dinámica del hogar.\n\nCasa V: Relación con hijos, amantes, y actividades recreativas.\n\nCasa VI: Salud física y rutinas laborales cotidianas.\n\nCasa VII: Matrimonio, asociaciones y vínculos legales.\n\nCasa VIII: Herencias, intimidad sexual y aspectos esotéricos.\n\nCasa IX: Filosofía de vida, viajes largos y educación superior.\n\nCasa X: Influencia materna y desarrollo profesional.\n\nCasa XI: Amistades, sueños y aspiraciones.\n\nCasa XII: Karma y lecciones de vida que debes aprender.",
+        "url": "lectura-general",
+        "price": "$ 25",
+        "priceI": "$ 35",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_14.png"
+    },
+    {
+        "id": 14,
+        "name": "Lectura de la Salud",
+        "description": "Esta lectura te ofrece una visión completa de tu estado de salud actual, revelando posibles padecimientos del pasado y aspectos ocultos que aún no se han manifestado. Además, te ayudará a identificar tus fortalezas y debilidades físicas, proporcionándote una proyección sobre tu salud futura y valiosos consejos que el tarot tiene para ofrecerte.",
+        "url": "lectura-salud",
+        "price": "$ 15",
+        "priceI": "$ 25",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_15.png"
+    },
+    {
+        "id": 15,
+        "name": "¿Voy a Encontrar el Verdadero Amor?",
+        "description": "Esta lectura no solo te revelará si el amor está próximo en tu vida, sino si encontrarás el VERDADERO amor, ese que es eterno, irrompible, y verdaderamente maravilloso. Incluso si ya estás en una relación, pero sientes que no eres completamente feliz, esta lectura puede indicarte si el amor de tu vida te espera en algún lugar. A diferencia de una simple tirada de Sí o No, esta lectura es mucho más reveladora, ya que las preguntas se ajustan según la respuesta obtenida en la segunda carta, proporcionando una visión más profunda y esclarecedora.",
+        "url": "lectura-amor",
+        "price": "$ 15",
+        "priceI": "$ 25",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_16.png"
+    },
+    {
+        "id": 16,
+        "name": "Lectura de los Sentimientos",
+        "description": "Esta lectura te ofrecerá una visión clara de lo que tú y tu pareja aportan, y si realmente son compatibles. Incluso si llevas tiempo en la relación, esta lectura te proporcionará una nueva perspectiva y confirmará lo que ya intuyes, ayudándote a entender mejor la dinámica entre ambos.",
+        "url": "lectura-sentimientos",
+        "price": "$ 18",
+        "priceI": "$ 28",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_17.png"
+    },
+    {
+        "id": 17,
+        "name": "Lectura de la Infidelidad",
+        "description": "Esta lectura busca identificar indicios de engaño, deshonestidad o secretos que podrían estar afectando la conexión entre dos personas. La lectura puede revelar las intenciones y emociones verdaderas de cada individuo, así como los factores externos o internos que podrían estar influyendo en la situación.",
+        "url": "lectura-infidelidad",
+        "price": "$ 15",
+        "priceI": "$ 25",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_18.png"
+    },
+    {
+        "id": 18,
+        "name": "Lectura de la Pareja",
+        "description": "Esta lectura ofrece una visión profunda de cómo se siente cada persona en la relación, qué energías predominan, y cuáles son los patrones o bloqueos que podrían estar afectando la armonía y el entendimiento mutuo.",
+        "url": "lectura-pareja",
+        "price": "$ 18",
+        "priceI": "$ 28",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_19.png"
+    },
+    {
+        "id": 19,
+        "name": "Lectura de la Compatibilidad",
+        "description": "Esta lectura se utiliza para evaluar la alineación energética y emocional entre dos personas en una relación. A través de las cartas, se examinan áreas fundamentales como la comunicación, los valores compartidos, la química emocional y física, y las expectativas futuras.",
+        "url": "lectura-compatibilidad",
+        "price": "$ 18",
+        "priceI": "$ 28",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_20.png"
+    },
+    {
+        "id": 20,
+        "name": "¿Se puede Arreglar esta Relación?",
+        "description": "Esta es una lectura muy precisa y puede ser muy reveladora. En ella se ve una relación desde el punto de vista de cada uno de sus integrantes, así como de la relación en sí. Muy útil para conocer deseos y necesidades ocultas o no dichas, y por supuesto, tomar los pasos de acción en consecuencia.",
+        "url": "lectura-arreglar-relacion",
+        "price": "$ 18",
+        "priceI": "$ 28",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_21.png"
+    },
+    {
+        "id": 21,
+        "name": "Lectura Amor joven: ¿Es Bueno o no este Amor para tu Hijo/a?",
+        "description": "Quizá pocas cosas son tan angustiantes para los padres que ver sufrir a nuestros hijos, y ni hablar si es por amor. Como padres, ocasionalmente podemos tener ciertas precauciones o recelos cuando nuestros hijos forman pareja, sin embargo, puede que estemos equivocados y sea algo bueno para ellos, incluso cuando en el camino sufran un poquito. Esta lectura te dará una pequeña mirada sobre la vida amorosa de tu hijo o hija adolescente.",
+        "url": "lectura-amor-joven",
+        "price": "$ 10",
+        "priceI": "$ 20",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_22.png"
+    },
+    {
+        "id": 22,
+        "name": "Lectura Concreta",
+        "description": "Esta es una lectura diseñada para ayudarte a evaluar decisiones importantes en cualquier situación. Las cartas te revelarán lo que tienes en contra y a favor, así como el destino al que debes llegar según tu consulta.",
+        "url": "lectura-concreta",
+        "price": "$ 7",
+        "priceI": "$ 17",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_1.png"
+    },
+    {
+        "id": 23,
+        "name": "Trabajos",
+        "description": "Los trabajos son acordados y hablados de forma previa, de acuerdo con el solicitado se indica costo de este.",
+        "url": "trabajos",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1722896544/TarotAmonet/lista_23.png"
+    }
+]

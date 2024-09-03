@@ -1,0 +1,83 @@
+{
+  "HomePage": {
+    "title":"Cada carta tiene un mensaje para ti",
+    "titleSpan":" ¿Estás listo para descubrirlo?",
+    "guide":"Aquí tienes una breve guía de como solicitar tu lectura de tarot.",
+    "information":"Todas las lecturas tienen información detallada.",
+    "chooseReading":"Elige la lectura que más te interese.",
+    "includeData":"Cada lectura incluye los datos necesarios para agendar correctamente tu sesión.",
+    "completeForm":"Completa todos los campos del formulario con tu nombre completo, fecha de nacimiento y tu pregunta específica.",
+    "reviewData":"Revisa tus datos y haz clic en el botón 'Agendar Lectura'",
+    "personalized":"¿Buscas una lectura personalizada?",
+    "email":"Te invito a experimentar mis lecturas de tarot por correo electrónico. Este método no solo te ofrece anonimato, sino que también te proporciona un registro escrito de la lectura, al que puedes recurrir en cualquier momento. Además, garantizo total sinceridad en mis interpretaciones, ya sean positivas o negativas."
+  },
+  "Navigation": {
+    "guide":"Guía",
+    "readings":"Lecturas",
+    "end":"Personal",
+    "contact":"Contacto",
+    "catalogue":"Catálogo",
+    "prices":"Precios"
+  },
+  "List": {
+    "readings":"Nuestras Lecturas",
+    "description":"Durante la lectura, exploraremos tus energías personales y su influencia en áreas clave de tu vida, como el amor, el trabajo, la salud y las relaciones. Te guiaré para identificar bloqueos emocionales, patrones limitantes y creencias que puedan estar impidiendo tu crecimiento y éxito. Al obtener esta comprensión, podrás tomar decisiones más conscientes y alineadas con tus deseos y objetivos."
+  },
+  "Readings": {
+    "info":"Más información"
+  },
+  "Contact": {
+    "title":"Contacto",
+    "description":"Te invito a embarcarte en esta experiencia y descubrir el poder transformador que reside en ti. Juntos, desvelaremos los secretos de tu energía y te guiaré en los pasos necesarios para manifestar una vida plena, abundante y llena de posibilidades.",
+    "descriptionSpan":"¡La magia del tarot te espera para revelarte tu verdadero potencial!"
+  },
+  "Footer": {
+    "text":"Todos los derechos reservados",
+    "textSpan":"El Tarot de Amonet"
+  },
+  "Url": {
+    "button":"Volver",
+    "invitation":"Embárcate en un viaje hacia el autoconocimiento con nuestras sesiones de lectura de tarot en línea. Obtén respuestas a tus preguntas más profundas, guía para decisiones importantes y una visión clara de tu futuro, todo desde la comodidad de tu hogar.",
+    "help":"Nuestras lecturas de tarot te ayudan a comprender desafíos, fortalezas y oportunidades de crecimiento. No esperes más, reserva tu sesión y comienza tu transformación interior hoy mismo.",
+    "ws":"Las lecturas se realizan por WhatsApp, brindándote comodidad y flexibilidad.",
+    "click":"Estás a un clic de distancia.",
+    "national":"Nacional",
+    "value":"Valor",
+    "international":"Internacional",
+    "services":"Valor de la lectura a coordinar con el cliente.",
+    "steps":"Pasos para agendar tu revisión de lectura:",
+    "select":"Selecciona tu lectura:",
+    "selectSpan":"Revisa el catálogo y asegúrate de que estás en la lectura que te interesa.",
+    "payment":"Realiza el pago:",
+    "paymentSpan":"Utiliza Pago Móvil o PayPal para pagar el monto exacto de tu lectura.",
+    "paypal":"Pago Paypal",
+    "confirmation":"Envía la confirmación de pago:",
+    "confirmationSpan":"Envía una captura de pantalla del pago realizado. Proporciona tus datos: Indica tu nombre completo, fecha de nacimiento y tu pregunta concreta.",
+    "ready":"¡Y listo! Serás atendido en breve.",
+    "cancellation":"Política de cancelación",
+    "cancellationText":"En caso de existir cambios por mi parte se te harán saber. Si al final no puedes acudir a la cita debes avisar mínimo con 4 horas de antelación y habrá la posibilidad de cambiar la cita. Tiempo de espera máximo para sesión será de 15 minutos, en caso de no haber avisado la tardanza, se cerrará la sesión y no se devolverá el dinero por ningún motivo ni ninguna excepción.",
+    "hours":"Horario de atención:",
+    "hoursText":"Empecemos a leer tu destino, a responder preguntas y a establecer bienestar en tu vida, estoy disponible para atenderte:",
+    "time":"Lunes a Viernes 9:00 AM - 5:00 PM (Horario de Venezuela)",
+    "details":"Detalles del contacto",
+    "detailsText":"Te recuerdo todas mis redes para que me contactes por el método que más te guste."
+  },
+  "Form": {
+    "information":"Datos para agendar",
+    "name":"Nombres",
+    "namePlaceholder":"Tú Nombre Completo",
+    "lastname":"Apellidos",
+    "lastnamePlaceholder":"Tus Apellidos",
+    "birth":"Fecha de Nacimiento",
+    "question":"Tu pregunta concreta",
+    "questionPlaceholder":"Tu pregunta referente a la",
+    "schedule":"Agendar Lectura",
+    "warn":"¡Todos los campos son obligatorios!",
+    "success":"¡Lectura agendada con éxito!"
+  },
+  "NotFound": {
+    "title":"Página no encontrada",
+    "text":"La página a la cual intentas acceder no existe, por favor vuelve a la página principal.",
+    "button":"Volver"
+  }
+}
