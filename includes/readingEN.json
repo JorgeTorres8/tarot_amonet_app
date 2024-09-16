@@ -6,7 +6,7 @@
         "url": "period-reading",
         "price": "$ 13",
         "priceI": "$ 23",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525716/ENTarotAmonet/list_2.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518812/ENTarotAmonet/list_1.png"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "url": "yes-no-reading",
         "price": "$ 7",
         "priceI": "$ 17",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525717/ENTarotAmonet/list_3.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518813/ENTarotAmonet/list_2.png"
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "url": "relationship-reading",
         "price": "$ 8",
         "priceI": "$ 18",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525717/ENTarotAmonet/list_4.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518811/ENTarotAmonet/list_3.png"
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "url": "rupture-reading",
         "price": "$ 15",
         "priceI": "$ 25",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525717/ENTarotAmonet/list_5.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518812/ENTarotAmonet/list_4.png"
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
         "url": "absent-reading",
         "price": "$ 15",
         "priceI": "$ 25",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525787/ENTarotAmonet/list_6.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518812/ENTarotAmonet/list_5.png"
     },
     {
         "id": 6,
@@ -51,7 +51,7 @@
         "url": "pregnancy-reading",
         "price": "$ 10",
         "priceI": "$ 20",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525787/ENTarotAmonet/list_7.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518811/ENTarotAmonet/list_6.png"
     },
     {
         "id": 7,
@@ -60,7 +60,7 @@
         "url": "reading-person",
         "price": "$ 10",
         "priceI": "$ 20",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525787/ENTarotAmonet/list_8.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518812/ENTarotAmonet/list_7.png"
     },
     {
         "id": 8,
@@ -69,7 +69,7 @@
         "url": "witchcraft-reading",
         "price": "$ 10",
         "priceI": "$ 20",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525787/ENTarotAmonet/list_9.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518812/ENTarotAmonet/list_8.png"
     },
     {
         "id": 9,
@@ -78,7 +78,7 @@
         "url": "money-reading",
         "price": "$ 15",
         "priceI": "$ 25",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525787/ENTarotAmonet/list_10.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518811/ENTarotAmonet/list_9.png"
     },
     {
         "id": 10,
@@ -87,7 +87,7 @@
         "url": "decisions-reading",
         "price": "$ 15",
         "priceI": "$ 25",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525788/ENTarotAmonet/list_11.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518815/ENTarotAmonet/list_10.png"
     },
     {
         "id": 11,
@@ -96,7 +96,7 @@
         "url": "sex-reading",
         "price": "$ 10",
         "priceI": "$ 20",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525935/ENTarotAmonet/list_12.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518812/ENTarotAmonet/list_11.png"
     },
     {
         "id": 12,
@@ -105,7 +105,7 @@
         "url": "spiritual-reading",
         "price": "$ 10",
         "priceI": "$ 20",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525936/ENTarotAmonet/list_13.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518813/ENTarotAmonet/list_12.png"
     },
     {
         "id": 13,
@@ -114,7 +114,7 @@
         "url": "general-reading",
         "price": "$ 25",
         "priceI": "$ 35",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525936/ENTarotAmonet/list_14.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518814/ENTarotAmonet/list_13.png"
     },
     {
         "id": 14,
@@ -123,7 +123,7 @@
         "url": "health-reading",
         "price": "$ 15",
         "priceI": "$ 25",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525936/ENTarotAmonet/list_15.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518811/ENTarotAmonet/list_14.png"
     },
     {
         "id": 15,
@@ -132,7 +132,7 @@
         "url": "love-reading",
         "price": "$ 15",
         "priceI": "$ 25",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525936/ENTarotAmonet/list_16.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518813/ENTarotAmonet/list_15.png"
     },
     {
         "id": 16,
@@ -141,7 +141,7 @@
         "url": "feelings-reading",
         "price": "$ 18",
         "priceI": "$ 28",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724526000/ENTarotAmonet/list_17.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518811/ENTarotAmonet/list_16.png"
     },
     {
         "id": 17,
@@ -150,7 +150,7 @@
         "url": "infidelity-reading",
         "price": "$ 15",
         "priceI": "$ 25",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724526000/ENTarotAmonet/list_18.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518813/ENTarotAmonet/list_17.png"
     },
     {
         "id": 18,
@@ -159,7 +159,7 @@
         "url": "couple-reading",
         "price": "$ 18",
         "priceI": "$ 28",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724526000/ENTarotAmonet/list_19.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518813/ENTarotAmonet/list_18.png"
     },
     {
         "id": 19,
@@ -168,7 +168,7 @@
         "url": "compatibility-reading",
         "price": "$ 18",
         "priceI": "$ 28",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724526000/ENTarotAmonet/list_20.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518814/ENTarotAmonet/list_19.png"
     },
     {
         "id": 20,
@@ -177,7 +177,7 @@
         "url": "fix-relationship-reading",
         "price": "$ 18",
         "priceI": "$ 28",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724526000/ENTarotAmonet/list_21.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518811/ENTarotAmonet/list_20.png"
     },
     {
         "id": 21,
@@ -186,7 +186,7 @@
         "url": "young-love-reading",
         "price": "$ 10",
         "priceI": "$ 20",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724526000/ENTarotAmonet/list_22.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518814/ENTarotAmonet/list_21.png"
     },
     {
         "id": 22,
@@ -195,13 +195,13 @@
         "url": "concrete-reading",
         "price": "$ 7",
         "priceI": "$ 17",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525716/ENTarotAmonet/list_1.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518814/ENTarotAmonet/list_22.png"
     },
     {
         "id": 23,
         "name": "Services",
         "description": "The services are agreed upon and discussed in advance. The cost is indicated according to the requested service.",
         "url": "services",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724526001/ENTarotAmonet/list_23.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518812/ENTarotAmonet/list_23.png"
     }
 ]

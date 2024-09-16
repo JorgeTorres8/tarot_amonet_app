@@ -6,7 +6,7 @@
         "url": "lectura-tiempo",
         "price": "$ 13",
         "priceI": "$ 23",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_2.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518452/TarotAmonet/lista_1.png"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "url": "lectura-si-no",
         "price": "$ 7",
         "priceI": "$ 17",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_3.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518452/TarotAmonet/lista_2.png"
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "url": "lectura-relacion",
         "price": "$ 8",
         "priceI": "$ 18",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_4.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518452/TarotAmonet/lista_3.png"
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "url": "lectura-ruptura",
         "price": "$ 15",
         "priceI": "$ 25",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_5.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518453/TarotAmonet/lista_4.png"
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
         "url": "lectura-ausente",
         "price": "$ 15",
         "priceI": "$ 25",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253307/TarotAmonet/lista_6.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518454/TarotAmonet/lista_5.png"
     },
     {
         "id": 6,
@@ -51,7 +51,7 @@
         "url": "lectura-embarazo",
         "price": "$ 10",
         "priceI": "$ 20",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253307/TarotAmonet/lista_7.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518453/TarotAmonet/lista_6.png"
     },
     {
         "id": 7,
@@ -60,7 +60,7 @@
         "url": "lectura-persona",
         "price": "$ 10",
         "priceI": "$ 20",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253307/TarotAmonet/lista_8.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518453/TarotAmonet/lista_7.png"
     },
     {
         "id": 8,
@@ -69,7 +69,7 @@
         "url": "lectura-hechiceria",
         "price": "$ 10",
         "priceI": "$ 20",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_9.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518453/TarotAmonet/lista_8.png"
     },
     {
         "id": 9,
@@ -78,7 +78,7 @@
         "url": "lectura-dinero",
         "price": "$ 15",
         "priceI": "$ 25",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_10.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518452/TarotAmonet/lista_9.png"
     },
     {
         "id": 10,
@@ -87,7 +87,7 @@
         "url": "lectura-decisiones",
         "price": "$ 15",
         "priceI": "$ 25",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253508/TarotAmonet/lista_11.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518452/TarotAmonet/lista_10.png"
     },
     {
         "id": 11,
@@ -96,7 +96,7 @@
         "url": "lectura-sexo",
         "price": "$ 10",
         "priceI": "$ 20",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253508/TarotAmonet/lista_12.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518454/TarotAmonet/lista_11.png"
     },
     {
         "id": 12,
@@ -105,7 +105,7 @@
         "url": "lectura-espiritual",
         "price": "$ 10",
         "priceI": "$ 20",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_13.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518453/TarotAmonet/lista_12.png"
     },
     {
         "id": 13,
@@ -114,7 +114,7 @@
         "url": "lectura-general",
         "price": "$ 25",
         "priceI": "$ 35",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_14.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518452/TarotAmonet/lista_13.png"
     },
     {
         "id": 14,
@@ -123,7 +123,7 @@
         "url": "lectura-salud",
         "price": "$ 15",
         "priceI": "$ 25",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_15.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518453/TarotAmonet/lista_14.png"
     },
     {
         "id": 15,
@@ -132,7 +132,7 @@
         "url": "lectura-amor",
         "price": "$ 15",
         "priceI": "$ 25",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_16.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518452/TarotAmonet/lista_15.png"
     },
     {
         "id": 16,
@@ -141,7 +141,7 @@
         "url": "lectura-sentimientos",
         "price": "$ 18",
         "priceI": "$ 28",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_17.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518452/TarotAmonet/lista_16.png"
     },
     {
         "id": 17,
@@ -150,7 +150,7 @@
         "url": "lectura-infidelidad",
         "price": "$ 15",
         "priceI": "$ 25",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_18.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518454/TarotAmonet/lista_17.png"
     },
     {
         "id": 18,
@@ -159,7 +159,7 @@
         "url": "lectura-pareja",
         "price": "$ 18",
         "priceI": "$ 28",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_19.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518453/TarotAmonet/lista_18.png"
     },
     {
         "id": 19,
@@ -168,7 +168,7 @@
         "url": "lectura-compatibilidad",
         "price": "$ 18",
         "priceI": "$ 28",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_20.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518454/TarotAmonet/lista_19.png"
     },
     {
         "id": 20,
@@ -177,7 +177,7 @@
         "url": "lectura-arreglar-relacion",
         "price": "$ 18",
         "priceI": "$ 28",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_21.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518453/TarotAmonet/lista_20.png"
     },
     {
         "id": 21,
@@ -186,7 +186,7 @@
         "url": "lectura-amor-joven",
         "price": "$ 10",
         "priceI": "$ 20",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_22.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518452/TarotAmonet/lista_21.png"
     },
     {
         "id": 22,
@@ -195,13 +195,13 @@
         "url": "lectura-concreta",
         "price": "$ 7",
         "priceI": "$ 17",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_1.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518454/TarotAmonet/lista_22.png"
     },
     {
         "id": 23,
         "name": "Trabajos",
         "description": "Los trabajos son acordados y hablados de forma previa, de acuerdo con el solicitado se indica costo de este.",
         "url": "trabajos",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1722896544/TarotAmonet/lista_23.png"
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1726518454/TarotAmonet/lista_23.png"
     }
 ]
