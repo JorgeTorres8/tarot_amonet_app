@@ -17,7 +17,7 @@ export default function SocialNetworks() {
     const linkW = `${process.env.NEXT_PUBLIC_API_URL_W}?text=${encoded}`;
 
     const fContactArray = [
-        {id: 1, icon: "/img/WhatsApp_icon.png", href: linkW, name:"+584142654756",pColor:"bg-green-800",sColor:"bg-green-700", alt:"WhatsApp icon"},
+        {id: 1, icon: "/img/WhatsApp_icon.png", href: linkW, name:"+584125857302",pColor:"bg-green-800",sColor:"bg-green-700", alt:"WhatsApp icon"},
         {id: 2, icon: "/img/TikTok_icon.png", href: "https://www.tiktok.com/@eltarotdeamonet?_t=8o9x2gbrDgz&_r=1", name:"eltarotdeamonet",pColor:"bg-zinc-900",sColor:"bg-zinc-800", alt:"TikTok icon"},
         {id: 3, icon: "/img/Instagram_icon.png", href: "https://www.instagram.com/eltarotdeamonet?igsh=MTdpaHNtM2ZtMWFpNQ==", name:"eltarotdeamonet",pColor:"bg-orange-800",sColor:"bg-orange-700", alt:"Instagram icon"}
     ]
